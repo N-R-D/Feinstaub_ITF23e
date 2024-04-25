@@ -2,10 +2,10 @@
 Feinstaub Downloader &amp; Datenanalyse
 
 
-Diese READ ME Datei wird eine erklärung über die programme URL_Download.py & CSV_Analyse.py bieten.
+Diese READ ME Datei wird eine erklärung über die programme Feinstaub_Downloader.py & Feinstaub_Datenanalyse.py bieten.
 
 
-URL-Download.py
+Feinstaub_Downloader.py
 
 Beim ausführen der Datei wird eine Grafische benutzerfläche erscheinen welche folgendes enthält:
 
@@ -27,7 +27,7 @@ einen Button
 Gespeichert werden die CSV dateien dann in Jährliche unterordner, welche im Selben ordner erstellt werden in dem sich Das programm befindet.
 
 
-CSV_Analyse.py
+Feinstaub_Datenanalyse.py
 
 Nach dem Ausführen wird eine Grafische Benutzeroberfläche Dargestellt, welches folgende Elemente enthält:
 
@@ -54,4 +54,5 @@ desweiteren gibt es 2 Grids
 
 
 
-CSV_analyse.py greift auf die von URL_Download.py gespeicherten dateien zu. Also ist es Ratsam, CSV_Analyse.py erst auszuführen nachdem URL_Download.py Daten gespeichert hat.
+Feinstaub_Datenanalyse.py greift auf die von Feinstaub_Downloaderpy gespeicherten Dateien zu
+Also ist es Ratsam, Feinstaub_Downloader.py zu erst auszuführen und danach erst Feinstaub_Datenanalyse.py 
