@@ -43,10 +43,14 @@ die grafische Darstellung enthält
 	ein graph für die PM2.5 Werte
 	ein graph für die PM10 Werte
 
-die Achsen bezeichnung ist 
-	x-achse: Zeit im format HH:MM von 00:00 bis 24:00
-	y-achse Links : Die konzentration in µg/m³
-	y-achse Rechs : Minimal-, Durchschnitts & Maximalwerte 
+die Achsen bezeichnung ist:
+
+x-achse: Zeit im format HH:MM von 00:00 bis 24:00
+ 
+y-achse Links : Die konzentration in µg/m³
+ 
+y-achse Rechs : Minimal-, Durchschnitts & Maximalwerte
+ 
 
 desweiteren gibt es 2 Grids
 	ein grid welches die Ticks der x & y-achse Links zusammenführt
