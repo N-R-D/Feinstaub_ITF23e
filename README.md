@@ -19,9 +19,11 @@ ein Dropdown menü
 ein Entryfeld 
 	welches die Eingabe der SensorID erwartet:
 	
- dht22  = 3660
+ dht22  = 3660  - für den Temperatur- , Luftdruck- & Feuchtigkeitssensor der TBS1
 	
- sds011 = 3659
+ sds011 = 3659	- für den Feinstaubsensor der TBS1
+
+ Jedoch können mit diesem Programm jegliche Daten des https://archive.sensor.community/ Archieves
 
 einen Button
 	welchen den Download startet.
