@@ -17,9 +17,11 @@ ein Dropdown menü
 	welches eine Auswahl der Sensortypen bietet
 
 ein Entryfeld 
-	welches die Eingabe der SensorID erwartet
-	dht22  = 3660
-	sds011 = 3659
+	welches die Eingabe der SensorID erwartet:
+	
+ dht22  = 3660
+	
+ sds011 = 3659
 
 einen Button
 	welchen den Download startet.
