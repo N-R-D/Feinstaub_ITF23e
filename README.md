@@ -4,17 +4,22 @@ Feinstaub Downloader &amp; Datenanalyse
 
 Diese READ ME Datei wird eine erklärung über die programme Feinstaub_Downloader.py & Feinstaub_Datenanalyse.py bieten.
 
+Feinstaub_Datenanalyse.py greift auf die von Feinstaub_Downloaderpy gespeicherten Dateien zu
+Also ist es Ratsam, Feinstaub_Downloader.py zu erst auszuführen und danach erst Feinstaub_Datenanalyse.py 
 
 Feinstaub_Downloader.py
 
 Beim ausführen der Datei wird eine Grafische benutzerfläche erscheinen welche folgendes enthält:
 
 2 Kalender 
-	einen für die Auswahl des start Datums
-	einen für die Auswahl des end Datums
+	
+ einen für die Auswahl des start Datums
+	
+ einen für die Auswahl des end Datums
 
 ein Dropdown menü
-	welches eine Auswahl der Sensortypen bietet
+	
+ welches eine Auswahl der Sensortypen bietet
 
 ein Entryfeld 
 	welches die Eingabe der SensorID erwartet:
@@ -37,15 +42,20 @@ Nach dem Ausführen wird eine Grafische Benutzeroberfläche Dargestellt, welches
 
 einen Kalendar zur Auswahl des Datums, der Datei welche angezeigt werden soll
 
-2 Button
-	Ein button welcher ein Hilfe fenster öffnet
-	Ein button welcher das Grafische darstellen der Daten initialisiert.
+2 Button:
+
+Ein button welcher ein Hilfe fenster öffnet
+
+Ein button welcher das Grafische darstellen der Daten initialisiert.
+
 
 die grafische Darstellung enthält
 
 2 Graphen 
-	ein graph für die PM2.5 Werte
-	ein graph für die PM10 Werte
+	
+ ein graph für die PM2.5 Werte
+	
+ ein graph für die PM10 Werte
 
 die Achsen bezeichnung ist:
 
@@ -57,10 +67,11 @@ y-achse Rechs : Minimal-, Durchschnitts & Maximalwerte
  
 
 desweiteren gibt es 2 Grids
-	ein grid welches die Ticks der x & y-achse Links zusammenführt
-	ein grid welches eine Grade linie an den stellen zieht wo sich die Minimal-, Durchschnitts & Maximalwerte befinden
+	
+ein grid welches die Ticks der x & y-achse Links zusammenführt
+	
+ein grid welches eine Grade linie an den stellen zieht wo sich die Minimal-, Durchschnitts & Maximalwerte befinden
 
 
 
-Feinstaub_Datenanalyse.py greift auf die von Feinstaub_Downloaderpy gespeicherten Dateien zu
-Also ist es Ratsam, Feinstaub_Downloader.py zu erst auszuführen und danach erst Feinstaub_Datenanalyse.py 
+
