@@ -22,7 +22,8 @@ ein Dropdown menü
  welches eine Auswahl der Sensortypen bietet
 
 ein Entryfeld 
-	welches die Eingabe der SensorID erwartet:
+
+welches die Eingabe der SensorID erwartet:
 	
  dht22  = 3660  - für den Temperatur- , Luftdruck- & Feuchtigkeitssensor der TBS1
 	
@@ -63,7 +64,7 @@ x-achse: Zeit im format HH:MM von 00:00 bis 24:00
  
 y-achse Links : Die konzentration in µg/m³
  
-y-achse Rechs : Minimal-, Durchschnitts & Maximalwerte
+y-achse Rechts : Minimal-, Durchschnitts & Maximalwerte
  
 
 desweiteren gibt es 2 Grids
